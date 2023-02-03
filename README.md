@@ -2,11 +2,11 @@
 This project aims to classify text data into different categories using a Bidirectional Recurrent Neural Network (RNN). The goal is to create a model that can accurately predict the category of a given text.
 
 ### Libraries Used -
-Pandas
-Numpy
-Plotly
-Regex
-SPACY
+Pandas,
+Numpy,
+Plotly,
+Regex,
+SPACY,
 Keras Word Embedding
 
 
